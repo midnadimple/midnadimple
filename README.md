@@ -1,4 +1,4 @@
-![Spare change](https://media.tenor.com/-oRclmAFe1oAAAAC/spare-change-begging.gif)
+![Banner](imgs/youtube-banner.png)
 
 What I am:  
 * A proud Rustacean (until I decide not to be)
