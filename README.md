@@ -1,4 +1,4 @@
-![Banner](youtube-banner.png)
+![Banner](github-banner.png)
 
 What I am:  
 * A proud Rustacean (until I decide not to be)
